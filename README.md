@@ -18,7 +18,7 @@ Pseudo amino acid composition is a set of discrete serial correlation factors co
  The flow as shown below:
  <img src="https://github.com/Sunmile/DeepUbi/blob/master/picture/Fig.1.png"> 
 ## DeepLearing Framework
-We constructed a feedforward neural network of six layers (including input and output layers).
+We constructed a convolutional neural network (CNN) as below:
 <img src="https://github.com/Sunmile/DeepUbi/blob/master/picture/Fig.2.png"> 
 ## Results
 * First of all, on the One-Hot encoding data set, we used the 4-fold, 6-fold, 8-fold and 10-fold cross validations. The ROC curves is shown below:
